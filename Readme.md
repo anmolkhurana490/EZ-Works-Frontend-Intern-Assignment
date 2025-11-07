@@ -4,7 +4,7 @@ A React contact form application built with Vite, Tailwind CSS, and React Hook F
 
 Postman collection: [EZ Works Contact Form API](https://www.postman.com/ezlab-internal/workspace/ezlab-internal/documentation/16243720-4e3f5b1e-8d3b-4f6a-8f3a-5f4e3c6d7e2b)
 
-<IMG src="App_UI_screenshot.png" alt="App Screenshot" width="600"/>
+<IMG src="App_UI_screenshot.png" alt="App Screenshot"/>
 
 ## Features
 - React functional components with hooks
